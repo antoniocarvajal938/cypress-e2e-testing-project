@@ -1,0 +1,25 @@
+{
+  "name": "cypress-e2e-testing-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniocarvajal938/cypress-e2e-testing-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniocarvajal938/cypress-e2e-testing-project/issues"
+  },
+  "homepage": "https://github.com/antoniocarvajal938/cypress-e2e-testing-project#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "cypress": "^15.9.0",
+    "typescript": "^5.9.3"
+  }
+}
