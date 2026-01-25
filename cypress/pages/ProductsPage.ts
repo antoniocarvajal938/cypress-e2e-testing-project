@@ -1,6 +1,6 @@
 class ProductsPage {
     private inventoryItems = '[data-test="inventory-item"]';
-    private cartIcon = '-shopping-cart-link';
+    private cartIcon = '.shopping_cart_link';
 
     isProductListVisible(): void {
         cy.get(this.inventoryItems).should('be.visible');
